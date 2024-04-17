@@ -1,3 +1,4 @@
 # repodemo
-this is my first git repository<br>
-Author-ABHISHEK K DANGALE
+This is my first git repository
+<br>
+Author-(Abhishek Dangale)
